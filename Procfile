@@ -1,1 +1,1 @@
-web: gunicorn gymapp:app
+web:gunicorn gymapp:app
